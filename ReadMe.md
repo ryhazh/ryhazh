@@ -1,6 +1,6 @@
 ## Hello!! ^^
 
-	<img src="https://raw.githubusercontent.com/ryhazh/ryhazh/refs/heads/main/komii.png" alt="html5 image" width="400" border="1">
+![komi](https://raw.githubusercontent.com/ryhazh/ryhazh/refs/heads/main/komii.png)
 
 ### https://shoko.web.id
 
