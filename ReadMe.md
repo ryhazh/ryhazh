@@ -4,9 +4,7 @@
 
 ### https://shoko.web.id
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryhazh&theme=github_dark)
-
 ## Skills
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PowerKuy&theme=github_dark" style="height: 300px"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryhazh&theme=github_dark" style="height: 300px"/>
 
 
